@@ -3,7 +3,7 @@ This is a chatbot 101 workshop with IBM Watson Assistant (aka conversation).
 
 ## about @blumareks
 
-Marek Sadowski - 
+Marek Sadowski is a full stack developer advocate, a robotics startup founder and an entrepreneur. He has about 20 year experience in consulting largest enterprises in USA, Europe, Middle East and Africa as a senior engineer and an IT architect in mobile, web, Java and integration technologies. As a graduate from the International Space University Marek pioneered in a research on VR goggles for the virtual reality system to control robots on Mars in NASA Ames. He founded a startup to deliver robotics solutions and services for space, military, and industrial sectors.
 
 ## Setting up for Watson
 You will need a free account on IBM Cloud to create and access Watson Services.
